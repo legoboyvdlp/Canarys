@@ -1,0 +1,13 @@
+OBJECT_SHARED Models/Airport/ndb.ac -16.562781 28.054722 91.4 180
+OBJECT_SHARED Models/Airport/ils.xml -16.583656 28.039422 49.59 290.63
+OBJECT_SHARED Models/Airport/ils.xml -16.560319 28.047742 53.71 110.61
+OBJECT_SHARED Models/Communications/vordme_1.xml -16.687928 28.002447 22.65 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -16.560314 28.047747 53.74 180
+OBJECT_SHARED Models/Airport/marker.ac -16.685339 28.005144 28.63 180
+OBJECT_SHARED Models/Airport/marker.ac -16.598639 28.035392 38.06 180
+OBJECT_SHARED Models/Airport/localizer.xml -16.5905 28.038233 44.6 338.52
+OBJECT_SHARED Models/Airport/localizer.xml -16.555394 28.050422 54.92 158.49
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -16.6144434 28.0201409 0 304.82
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -16.6614585 28.006985 0 308.82
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -16.6143907 28.0189835 -0.02 339.2
+OBJECT_SHARED Models/Airport/Terminal-ru1.ac -16.575987 28.048576 66.74 260
