@@ -1,0 +1,28 @@
+AC3Db
+MATERIAL "default" rgb 0.72 0.72 0.72 amb 0.8 0.8 0.8 emis 0.08 0.08 0.08 spec 0.2 0.2 0.2 shi 128 trans 0
+MATERIAL "Material5" rgb 0.72 0.72 0.72 amb 0.8 0.8 0.8 emis 0.08 0.08 0.08 spec 0.2 0.2 0.2 shi 128 trans 0
+OBJECT world
+kids 1
+OBJECT poly
+name "blah"
+texture "GCLA_palm1.png"
+numvert 4
+2.130000 6.926950 -0.000000
+-2.130000 0.000000 0.000000
+2.130000 0.000000 0.000000
+-2.130000 6.926950 -0.000000
+numsurf 2
+SURF 0x30
+mat 1
+refs 3
+0 -1.9908 1.9812
+1 -2.9815 1.0021
+2 -1.9908 1.0021
+SURF 0x30
+mat 1
+refs 3
+1 -2.9815 1.0021
+0 -1.9908 1.9812
+3 -2.9815 1.9812
+kids 0
+

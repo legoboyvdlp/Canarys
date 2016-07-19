@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Power/windturbine.xml -17.7487812 28.6205276 -0.3 0
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat.ac -17.7407102 28.5625338 -5.22 8.2
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat.ac -17.7077523 28.5929939 -9.12 8.2
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat.ac -17.6699246 28.5969291 -12.53 8.2
+OBJECT_SHARED Models/Maritime/Civilian/Catamaran.xml -17.7410708 28.5979094 -3.82 8.2
