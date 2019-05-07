@@ -5,10 +5,10 @@
  <type>material</type> 
  <object-name>Untitled</object-name>
  <condition>		
-  <less-than-equals>		
+  <greater-than-equals>		
    <property>/sim/time/sun-angle-rad</property>
    <value>1.57</value>
-  </less-than-equals>
+  </greater-than-equals>
  </condition>
  <texture>hangar_binter_lit.png</texture>
 </animation>
