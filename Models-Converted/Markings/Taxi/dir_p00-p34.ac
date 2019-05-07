@@ -1,0 +1,26 @@
+AC3Db
+MATERIAL "Material.000" rgb 0.640 0.640 0.640  amb 1.000 1.000 1.000  emis 0.000 0.000 0.000  spec 0.500 0.500 0.500  shi 12 trans 0.000
+OBJECT world
+name "Blender_exporter_v2.26__dir_p00-p34.ac"
+kids 1
+OBJECT poly
+name "Plane"
+data 9
+Plane.140
+crease 40.0
+texture "direcciones_norte.png"
+texrep 1 1
+numvert 4
+4.3725 -0.16195 6
+-4.3725 -0.16195 6
+4.3725 -0.16196 -6
+-4.3725 -0.16196 -6
+numsurf 1
+SURF 0X0
+mat 0
+refs 4
+0 0 0.999955
+2 0 0
+3 0.194 0
+1 0.194 0.999956
+kids 0
