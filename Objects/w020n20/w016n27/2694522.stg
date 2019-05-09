@@ -105,3 +105,7 @@ OBJECT_SHARED Models/Military/cables_apontage_tensor_l.ac -15.38857925 27.923221
 OBJECT_SHARED Models/Military/cables_apontage.ac -15.38105190 27.93924025 25.5303 249.6 0.0 -0.0
 OBJECT_SHARED Models/Military/cables_apontage_tensor_l.ac -15.38066130 27.93911128 25.4989 249.4 0.0 -0.0
 OBJECT_SHARED Models/Military/cables_apontage_tensor_r.ac -15.38144074 27.93937056 25.4990 248.8 0.0 -0.0
+OBJECT_SHARED Models/Airport/farola_apron_blanco.ac -15.38241168 27.92986623 25.5106 303.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar_50.ac -15.38251555 27.93048163 25.4988 249.4 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar_11.ac -15.38187350 27.93051065 25.4990 249.4 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar_11.ac -15.38192735 27.93038391 25.4989 69.4 0.0 -0.0
