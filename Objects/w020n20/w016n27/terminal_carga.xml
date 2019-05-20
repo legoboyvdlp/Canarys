@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <PropertyList>
-<path>hangar_binter.ac</path>
+<path>terminal_carga.ac</path>
 <animation>
  <type>material</type> 
- <object-name>OBJ2</object-name>
+ <object-name>OBJ6</object-name>
  <condition>		
   <greater-than-equals>		
    <property>/sim/time/sun-angle-rad</property>
@@ -15,6 +15,6 @@
   <green>1</green>	
   <blue>1</blue>
  </emission>
- <texture>hangar_binter_lit.png</texture>
+ <texture>terminal_carga_lit.png</texture>
 </animation>
 </PropertyList>
