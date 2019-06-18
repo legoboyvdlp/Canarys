@@ -7,7 +7,7 @@
       <rwy>03L</rwy>
       <hdg-deg>21.44</hdg-deg>
       <elev-m>23.5</elev-m>
-      <nav-id>IILP</nav-id>
+      <nav-id>ILP</nav-id>
     </ils>
     <ils>
       <lon>-15.380845</lon>
@@ -15,7 +15,7 @@
       <rwy>21R</rwy>
       <hdg-deg>201.44</hdg-deg>
       <elev-m>10.0</elev-m>
-      <nav-id>IRLP</nav-id>
+      <nav-id>RLP</nav-id>
     </ils>
   </runway>
 </PropertyList>
