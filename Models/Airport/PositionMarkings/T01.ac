@@ -1,0 +1,26 @@
+AC3Db
+MATERIAL "Material.004" rgb 0.640 0.640 0.640  amb 1.000 1.000 1.000  emis 0.000 0.000 0.000  spec 0.500 0.500 0.500  shi 12 trans 0.000
+OBJECT world
+name "Blender_exporter_v2.26__T01.ac"
+kids 1
+OBJECT poly
+name "Plane"
+data 9
+Plane.121
+crease 40.0
+texture "pos_t01-t02_big.png"
+texrep 1 1
+numvert 4
+3 -0.16193 4.39
+-3 -0.16193 4.39
+3 -0.16194 -4.39
+-3 -0.16194 -4.39
+numsurf 1
+SURF 0X0
+mat 0
+refs 4
+0 0 0
+2 0.097656 0
+3 0.097656 1
+1 0 0.999999
+kids 0
