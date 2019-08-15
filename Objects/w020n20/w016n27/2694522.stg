@@ -401,6 +401,12 @@ OBJECT_SHARED Models/Airport/TaxiMarkings/cabecera_21R.xml -15.38666456 27.92926
 OBJECT_SHARED Models/Airport/TaxiMarkings/no-entry.xml -15.38394799 27.93675479 24.2205 104.8 0.0 -0.0
 OBJECT_SHARED Models/Airport/TaxiMarkings/cabecera_03L.xml -15.38380538 27.93571626 23.7131 278.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/TaxiMarkings/cabecera_21R.xml -15.38373298 27.93572691 23.6604 278.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/mxvtftrailerwh.ac -15.39571807 27.92562147 30.6579 157.6 0.0 -0.0
+OBJECT_SHARED Models/Transport/mxvtftrailerwh.ac -15.39554276 27.92538219 30.5914 158.6 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/guardarailes.ac -15.39380419 27.92729419 29.5146 338.3 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/guardarailes.ac -15.39375718 27.92727760 29.5084 338.2 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/guardarailes.ac -15.39952032 27.92827445 46.3337 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Toll_Booth.xml -15.39541281 27.92636899 30.6252 288.0 0.0 -0.0
 OBJECT_STATIC parking_terminal_norte.ac -15.38827474 27.94193156 28.0892 336.5 0.0 -0.0
 OBJECT_STATIC rotonda_terminal_norte.ac -15.38957233 27.94121451 28.0424 0.0 0.0 -0.0
 OBJECT_STATIC rotonda_terminal_centro.ac -15.39056661 27.93902485 28.7370 0.0 0.0 -0.0
@@ -408,3 +414,4 @@ OBJECT_STATIC rotonda_terminal_sur.ac -15.39182568 27.93610126 29.4042 0.0 0.0 -
 OBJECT_STATIC instalaciones_cepsa.xml -15.39189215 27.93306809 29.6445 339.0 0.0 -0.0
 OBJECT_STATIC instalaciones_cepsa_01.xml -15.39262189 27.93170549 29.6907 338.5 0.0 -0.0
 OBJECT_STATIC parking_explanada_01.ac -15.39494949 27.92638041 30.3438 159.2 0.0 -0.0
+OBJECT_STATIC almacen_agentes_carga.xml -15.39508105 27.92611985 30.3540 338.9 -0.1 -0.3
