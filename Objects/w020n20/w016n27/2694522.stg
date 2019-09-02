@@ -551,3 +551,5 @@ OBJECT_SHARED Models/Airport/Vehicles/gpu-gen.ac -15.39297763 27.92995402 29.374
 OBJECT_SHARED Models/Airport/Vehicles/gpu-gen.ac -15.39300398 27.92993432 29.3907 0.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/Vehicles/gpu-gen.ac -15.39303252 27.92991266 29.4086 0.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/Vehicles/gpu-gen.ac -15.39305519 27.92989363 29.4226 0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/camarored.ac -15.39283628 27.93048963 29.3648 340.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/tcamryblack.ac -15.39288688 27.93051947 29.4166 312.0 0.0 -0.0
