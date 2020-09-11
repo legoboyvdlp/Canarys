@@ -4,4 +4,8 @@
 	<animation>
 		<enable-hot>false</enable-hot>
 	</animation>
+
+	<animation>
+		<type>noshadow</type>
+	</animation>
 </PropertyList>
